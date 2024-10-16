@@ -12,4 +12,4 @@
 
 ---
 
-Ссылка на деплой: https://cendreschaudes.github.io/HTMLAcademy__JS1-Kekstagram/
+Ссылка на деплой: https://cendreschaudes.github.io/LearningFrontend__Kekstagram/
